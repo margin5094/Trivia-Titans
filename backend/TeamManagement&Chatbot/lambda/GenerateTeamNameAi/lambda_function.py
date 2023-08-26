@@ -2,7 +2,7 @@ import requests
 import json
 
 GPT_API_URL = 'https://api.openai.com/v1/chat/completions'
-GPT_API_KEY = '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'
+GPT_API_KEY = 'YOUR_KEY'
 
 
 def generate_ai_team_name(event, context):

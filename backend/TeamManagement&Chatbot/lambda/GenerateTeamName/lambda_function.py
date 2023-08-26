@@ -2,7 +2,7 @@ import requests
 import random
 
 GPT_API_URL = 'https://api.openai.com/v1/chat/completions'
-GPT_API_KEY = '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'
+GPT_API_KEY = 'YOUR_KEY'
 
 adjectives = [
     'Amazing', 'Awesome', 'Beautiful', 'Brilliant', 'Cheerful', 'Creative', 'Delightful', 'Elegant',
